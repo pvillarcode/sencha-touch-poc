@@ -1,0 +1,1 @@
+{"id":"ebff5c31-2ffb-4aff-afb0-3939edecc0fa","js":[{"path":"cordova.js","remote":true},{"path":"resources/js/markerclusterer.js","update":"delta"},{"path":"http://maps.google.com/maps/api/js?sensor\u003dtrue","remote":true},{"path":"app.js","update":"delta"}],"css":[{"path":"resources/css/app.css","update":"delta"}]}
